@@ -11,4 +11,7 @@
 
                  }
          }
+   "addons": [
+     {"plan": "heroku-redis"}
+    ]
 }
