@@ -8,6 +8,7 @@
             "description": "API_HASH of your Telegram Account my.telegram.org/apps",
             "value": "g",
             "required": true
-        },
- }
+
+                 }
+         }
 }
